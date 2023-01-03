@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gzyl, I've a strong passion for using R for data-analysis, R-packages and beyond!
+I'm Gzyl, a short of Ghozayel. I've a strong passion for using R for data-analysis, R-packages and beyond!
 - 🌱 I'm the author and maintainer of my 1st R-Package 'Lextale', details can be accessed in my repo. 
 - 🔭 I'm currently a senior PhD student, University of Nottingham, UK; a quantitative linguist interested in psycholinguitics, corpus linguistics, language aquisition, cross-linguistic studies & input-modality. 
 - 🔭 I'm a lecturer in Jubail Industrial College, Saudi.
