@@ -7,4 +7,3 @@ I'm Gzyl, a short for Ghozayel. I've a strong passion for using R for data-analy
 - ⚡I've some experience of using PsychoPy, Pavlovia and GitLab for running studies online.
 - 💬 Ask me about resources about statistics for linguists using R, running studies using PsychoPy, and creating R packages from scratch 😄.
 - 📫 How to reach me: @gzl_atb
- 
